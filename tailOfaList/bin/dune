@@ -1,0 +1,4 @@
+(executable
+ (public_name tailOfaList)
+ (name main)
+ (libraries tailOfaList))
